@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Producto3",
+        "price": "500",
+        "thumbnail": "img",
+        "id": 1
+    },
+    {
+        "name": "Producto4",
+        "price": "500",
+        "thumbnail": "img",
+        "id": 2
+    },
+    {
+        "timestamp": "fecha",
+        "productos": [],
+        "id": 3
+    },
+    {
+        "name": "nuevo carrito",
+        "price": "500",
+        "thumbnail": "img",
+        "id": 4
+    },
+    {
+        "timestamp": "fecha",
+        "productos": [],
+        "id": 5
+    }
+]
